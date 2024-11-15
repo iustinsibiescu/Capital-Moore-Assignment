@@ -1,0 +1,38 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th {
+    border-bottom: 1px solid #33334A;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    font-size: 14px;
+}
+
+th {
+    font-size: 18px;
+}
+
+td:first-child {
+    width: 10px;
+    border-bottom: 1px solid #0E0E23;
+}
+
+th:first-child {
+    width: 10px;
+    border-bottom: 1px solid #0E0E23;
+}
+
+td:last-child {
+    width: 10px;
+    border-bottom: 1px solid #0E0E23;
+}
+
+th:last-child {
+    width: 10px;
+    border-bottom: 1px solid #0E0E23;
+}
